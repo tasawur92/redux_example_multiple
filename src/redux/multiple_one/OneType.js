@@ -1,0 +1,1 @@
+export const MULTIPLY_ONE = 'MULTIPLY_ONE';
